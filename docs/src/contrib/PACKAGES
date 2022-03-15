@@ -1,3 +1,12 @@
+Package: dataui
+Version: 0.0.1
+Imports: glue, htmltools, htmlwidgets, jsonlite, reactR
+Suggests: knitr, markdown, reactable, rmarkdown
+Enhances: DT, shiny
+License: MIT + file LICENSE
+MD5sum: 487f929bc40568433a4334fc32452183
+NeedsCompilation: no
+
 Package: drat
 Version: 0.1.8
 Depends: R (>= 3.2.0)
