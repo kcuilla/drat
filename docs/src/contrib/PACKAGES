@@ -15,3 +15,12 @@ Suggests: git2r, knitr, rmarkdown
 License: GPL (>= 2)
 MD5sum: 2e7107c8bc567c3e7d1aedbd7aaeb396
 NeedsCompilation: no
+
+Package: webshot2
+Version: 0.0.0.9000
+Depends: R (>= 3.2)
+Imports: chromote (>= 0.0.0.9001), later, promises, magrittr, callr
+Suggests: shiny, httpuv, rmarkdown
+License: GPL-2
+MD5sum: 1309152c98fe8e23725cfa1f72adc665
+NeedsCompilation: no
